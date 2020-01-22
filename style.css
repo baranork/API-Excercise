@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#image{
+    width: 93px;
+    height: 93px;
+}
+
+#name{
+    text-transform: capitalize;
+}
+
+
+.types{
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+}
+
+.type{
+    display: none;
+    border: 1px solid black;
+    padding: 2px;
+    margin: 5px;
+}
+
